@@ -1,7 +1,7 @@
 # Terms of Use
 
 **Oath, Terms of Use and End User License Agreement**
-Last updated: October 19, 2026
+Last updated: October 23, 2026
 
 ## 1. The agreement
 These Terms of Use ("Terms") are a legal agreement between you and the developer of Oath ("Oath", "we", "us", "our") for the Oath iOS app, its widgets and extensions, and any related services ("the App"). By downloading, installing or using the App you agree to these Terms. If you do not agree, do not use the App. These Terms are also the End User License Agreement (EULA) for the App. Where these Terms are silent, Apple's Licensed Application End User License Agreement applies.
@@ -12,7 +12,7 @@ Oath was previously published as "Stoic". These Terms apply to the App under eit
 Oath is a focus and discipline app. Depending on your plan and device it may include:
 - **Locked-In:** blocking apps you choose using Apple's Screen Time, until you have earned time in them
 - **Focus sessions and credits:** a timer that mints credits you spend to open blocked apps
-- **Ghost Feed:** a view of Instagram inside Oath with the feed, Reels, Stories and ads hidden
+- **Ghost Feed:** a view of Instagram, TikTok and YouTube inside Oath with the algorithmic feed, Reels, Shorts, suggestions and ads hidden
 - **Alarms with wake-up challenges:** maths, steps, a spoken phrase, or camera-counted exercise, with an optional morning lockdown
 - **North, Winter Arc and the Verdict:** habits, a seasonal commitment, streaks and a daily held-or-slipped result
 - **Tasks, brain dump, Library and summaries**
@@ -42,12 +42,12 @@ We are not liable for any loss, missed obligation or other outcome arising from 
 ## 7. Wake-up challenges and physical activity
 Some challenges ask you to walk, speak loudly, or do exercises such as push-ups counted by the camera. Do them only if you are physically able to, and stop if you feel pain or discomfort. Consult a doctor before starting any exercise if you have a health condition. You do these challenges at your own risk. The camera counts movement on your device and does not record or send video.
 
-## 8. Ghost Feed and Instagram
-Ghost Feed displays Instagram's website inside the App and hides parts of it on your device. You acknowledge that:
-- Oath is not affiliated with, endorsed by or sponsored by Instagram or Meta. "Instagram" is a trademark of Meta Platforms, Inc.
-- Your use of Instagram through Ghost Feed is subject to Instagram's own terms and policies. You are responsible for complying with them and for your Instagram account.
-- Instagram can change its website at any time. Ghost Feed may stop working, show parts it should hide, or hide parts it should show, without notice. We do not guarantee any particular element will be hidden.
-- Your Instagram logins stay on your device. We cannot recover, reset or support your Instagram account.
+## 8. Ghost Feed (Instagram, TikTok and YouTube)
+Ghost Feed displays the Instagram, TikTok and YouTube websites inside the App and hides parts of them on your device. You acknowledge that:
+- Oath is not affiliated with, endorsed by or sponsored by Instagram, Meta, TikTok, ByteDance, YouTube or Google. "Instagram" is a trademark of Meta Platforms, Inc. "TikTok" is a trademark of ByteDance Ltd. and its affiliates. "YouTube" is a trademark of Google LLC.
+- Your use of each service through Ghost Feed is subject to that service's own terms and policies, including the YouTube Terms of Service. You are responsible for complying with them and for your accounts.
+- Each service can change its website at any time. Ghost Feed may stop working, show parts it should hide, or hide parts it should show, without notice. We do not guarantee any particular element will be hidden. TikTok support is marked beta in the App.
+- Your logins stay on your device. We cannot recover, reset or support your Instagram, TikTok or YouTube accounts.
 - You may use Ghost Feed only with accounts you own or are authorised to use.
 
 ## 9. AI features
@@ -86,13 +86,13 @@ You agree not to:
 We may suspend or terminate access for breaches, with or without notice.
 
 ## 15. Intellectual property
-The App, its name, logo, artwork, text, summaries, code and design are owned by us or our licensors and protected by copyright, trademark and other laws. Except for the license in section 5 and your rights in your own content, nothing in these Terms gives you any right in the App. "Oath" and the Oath crest are our trademarks. Apple, iPhone, Face ID and Screen Time are trademarks of Apple Inc. Instagram and Facebook are trademarks of Meta Platforms, Inc.
+The App, its name, logo, artwork, text, summaries, code and design are owned by us or our licensors and protected by copyright, trademark and other laws. Except for the license in section 5 and your rights in your own content, nothing in these Terms gives you any right in the App. "Oath" and the Oath crest are our trademarks. Apple, iPhone, Face ID and Screen Time are trademarks of Apple Inc. Instagram and Facebook are trademarks of Meta Platforms, Inc. TikTok is a trademark of ByteDance Ltd. and its affiliates. YouTube is a trademark of Google LLC.
 
 ## 16. Privacy
 Our Privacy Policy explains what the App collects and what stays on your phone. It forms part of these Terms.
 
 ## 17. Third-party services
-The App uses services from Apple, Google, Meta, Superwall, Supabase, OpenAI, Google Books, Open Library, Open-Meteo and Resend, and displays Instagram. Those services have their own terms, which apply to your use of them. We are not responsible for third-party services, their availability, or changes they make.
+The App uses services from Apple, Google, Meta, Superwall, Supabase, OpenAI, Google Books, Open Library, Open-Meteo and Resend, and displays Instagram, TikTok and YouTube. Those services have their own terms, which apply to your use of them. We are not responsible for third-party services, their availability, or changes they make.
 
 ## 18. Changes to the App
 We may add, change, limit or remove features, and may stop providing the App or any part of it, at any time. Where a change materially reduces what a paid subscription provides, you may cancel and Apple's refund rules apply.
@@ -109,7 +109,7 @@ TO THE FULLEST EXTENT PERMITTED BY LAW, WE AND OUR OFFICERS, EMPLOYEES, CONTRACT
 Nothing in these Terms excludes or limits liability that cannot be excluded or limited by law, including for death or personal injury caused by negligence, fraud, or consumer rights that cannot be waived in your country.
 
 ## 22. Indemnity
-You will defend, indemnify and hold us harmless from claims, damages, costs and expenses (including reasonable legal fees) arising from your content, your use of the App, your breach of these Terms, or your violation of any law or third-party right, including Instagram's terms.
+You will defend, indemnify and hold us harmless from claims, damages, costs and expenses (including reasonable legal fees) arising from your content, your use of the App, your breach of these Terms, or your violation of any law or third-party right, including the terms of Instagram, TikTok or YouTube.
 
 ## 23. Termination
 You may stop using the App and delete your account at any time. We may suspend or terminate your access at any time for breach of these Terms, for legal reasons, or if we discontinue the App. Sections that by their nature should survive (including 10, 11, 15, 19 to 22 and 24 to 27) survive termination.

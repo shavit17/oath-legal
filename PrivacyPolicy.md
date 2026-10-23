@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Oath, Privacy Policy**
-Last updated: October 19, 2026
+Last updated: October 23, 2026
 
 ## 1. Who we are and what this covers
 Oath ("Oath", "we", "us", "our") is an iOS app for focus, app blocking, habits and alarms. This policy explains what information the app collects, what stays on your phone, what leaves it, who it goes to and why, and what you can do about it. It applies to the Oath app, its widgets and extensions, and the email and support channels listed at the end.
@@ -20,7 +20,7 @@ The following is stored only on your device (or in the private app group shared 
 - Your streak, credits, focus history and Locked-In settings
 - Your alarms and their settings, including any custom alarm sound you record
 - Your name and anything you told us about yourself during setup, used to personalise the app on the phone
-- Your Ghost Feed settings, your daily limit, and your Instagram logins (see section 5)
+- Your Ghost Feed settings, your daily limits, and your Instagram, TikTok and YouTube logins (see section 5)
 - Which apps you have chosen to block (see section 4)
 
 ## 3. What leaves your phone
@@ -67,7 +67,7 @@ Three features send a single piece of content to our server, which passes it to 
 OpenAI processes this content under its API terms and does not use it to train its models. AI output can be wrong; it is a suggestion, not advice.
 
 ### 3.8 Ghost Feed reports
-When you tap Report inside Ghost Feed, the app sends us a description of how the Instagram page was built (element names and short labels such as "Sponsored") so we can fix the filtering rules. It never includes your messages, captions, photos or who you follow. The app also downloads the current filtering rules from our server; that request carries no account information.
+When you tap Report inside Ghost Feed, the app sends us a description of how the Instagram, TikTok or YouTube page was built (element names and short labels such as "Sponsored"), which of the three it was, and the version of the filtering rules in use, so we can fix those rules. It never includes your messages, captions, photos, videos, comments or who you follow. The app also downloads the current filtering rules for each of the three from our server; those requests carry no account information.
 
 ### 3.9 Weather
 If you allow location access, the morning screen fetches local weather from Open-Meteo using a city-level location (accuracy of about one kilometre). Your location is sent to Open-Meteo for that request and is not stored by us. You can decline, and the weather line simply does not appear.
@@ -76,16 +76,24 @@ If you allow location access, the morning screen fetches local weather from Open
 If you write to us, we receive whatever you choose to send from your own mail app. The "I'm stuck" button pre-fills the app version, iOS version, device model and your day count so we can help faster. You can delete any of it before sending.
 
 ## 4. Screen Time and app blocking (Locked-In)
-Oath blocks apps using Apple's Screen Time framework (Family Controls, Managed Settings and Device Activity). When you choose which apps to block, Apple gives Oath opaque tokens, not app names. Oath does not know which apps you selected, how long you use them, or anything about your Screen Time history, and none of it is sent to us. The settings needed to run the feature live in the private app group on your phone. Face ID, when you use it to confirm spending credits, is handled entirely by iOS; Oath never sees biometric data.
+Oath blocks apps using Apple's Screen Time framework (Family Controls, Managed Settings and Device Activity). When you choose which apps to block, Apple gives Oath opaque tokens, not app names. Oath does not know which apps you selected or anything about your wider Screen Time history.
 
-## 5. Ghost Feed and Instagram
-Ghost Feed loads Instagram's website inside Oath and hides the parts you ask it to hide. Your Instagram login, cookies and session are stored by iOS in a separate, isolated web store for each account, on your phone only. We never see your Instagram password, your messages, your feed, or what you scroll past. Signing out of an account in Ghost Feed wipes that store.
+To show how long you spent in your blocked apps today, Apple tells Oath when your time in them, taken together, passes set marks (for example 15 or 30 minutes). Oath keeps that daily total, and the last 14 days of it, in the private app group on your phone, where the app and its widgets read it. It is a single number per day, not tied to any named app, and it is never sent to us.
 
-To notify you of new direct messages, Oath periodically checks your inbox page in the background using your own session and turns a new unread count into a local notification. Nothing from that check leaves your phone.
+The Screen Time page and its widget draw your usage inside a sealed view that Apple provides. Apple fills in those numbers itself; Oath cannot read them, and they never leave your phone.
 
-When you share an Instagram link to Oath from another app, the link is held briefly in the app group until Oath opens it, then discarded.
+The settings needed to run these features live in the private app group on your phone, and none of it is sent to us. Face ID, when you use it to confirm spending credits, is handled entirely by iOS; Oath never sees biometric data.
 
-Instagram is a product of Meta. Oath is not affiliated with Meta, and your use of Instagram remains subject to Instagram's own terms and privacy policy.
+## 5. Ghost Feed (Instagram, TikTok and YouTube)
+Ghost Feed loads the Instagram, TikTok and YouTube websites inside Oath and hides the parts you ask it to hide, such as Reels, Shorts, the For You feed, suggestions and ads. Your logins, cookies and sessions for each service are stored by iOS in a separate, isolated web store for each account, on your phone only. We never see your passwords, your messages, your feed, the videos you watch, or what you scroll past. Signing out of an account in Ghost Feed wipes that store.
+
+The time you spend in each service and your daily limits are counted on your phone and stay there.
+
+To notify you of new Instagram direct messages, Oath periodically checks your Instagram inbox page in the background using your own session and turns a new unread count into a local notification. Nothing from that check leaves your phone.
+
+When you share an Instagram, TikTok or YouTube link to Oath from another app, the link is held briefly in the app group until Oath opens it, then discarded.
+
+Instagram is a product of Meta Platforms, Inc. TikTok is a product of TikTok Ltd. and its affiliates. YouTube is a product of Google LLC. Oath is not affiliated with, endorsed by or sponsored by any of them, and your use of each service remains subject to that service's own terms and privacy policy.
 
 ## 6. Alarms and wake-up challenges
 - **Camera (push-ups and other rep challenges):** Oath uses Apple's on-device Vision framework to count movements. Nothing is recorded, saved or sent anywhere.
