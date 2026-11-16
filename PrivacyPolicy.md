@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Oath, Privacy Policy**
-Last updated: November 2, 2026
+Last updated: November 16, 2026
 
 ## 1. Who we are and what this covers
 Oath ("Oath", "we", "us", "our") is an iOS app for focus, recorded work sessions, friends, app blocking, habits and alarms, made by Shavit Brosh in Israel, who is the controller of the personal data described here. This policy explains what information the App collects, what stays on your phone, what leaves it, who can see it, who it goes to and why, how long we keep it, and what you can do about it. It applies to the Oath app, its widgets and extensions, our servers, and the email and support channels listed at the end.
@@ -84,7 +84,9 @@ Oath includes the Meta (Facebook) SDK to measure whether people who install Oath
 - **If you allow tracking,** the Meta SDK may receive your device's advertising identifier together with app install, open and purchase events, and match them to the ad you saw.
 - **If you do not allow tracking,** the advertising identifier is not shared and Meta receives only aggregated, non-identifying event data as permitted by Apple's rules.
 
-This data is used only to measure advertising. It is never used to show you ads inside Oath. You can change your choice at any time in iOS Settings under Privacy & Security, then Tracking.
+With those events, the Meta SDK also sends the title of the screen you were on and, if a link opened Oath, that link. From time to time it also sends Meta sampled information about Oath itself, such as the layout of elements on its screens. Meta uses that to improve its ad systems and build new features, and says it is not used to deliver ads.
+
+We use this data only to measure advertising. It is never used to show you ads inside Oath. You can change your choice at any time in iOS Settings under Privacy & Security, then Tracking.
 
 ### 3.12 Subscriptions
 Oath+ purchases are made through Apple. We never see your payment card. We use Superwall to present and measure paywalls; it receives your account identifier, your first name if you have given one, and events about which paywall you saw and whether you purchased. To stop fraud, the App sends Apple's signed purchase record to our server, where its signature is checked and the subscription is recorded against your account.
@@ -125,7 +127,7 @@ Ghost Feed loads the Instagram, TikTok and YouTube websites inside Oath and hide
 | Supabase | Accounts, database, private file storage, our server functions, sign-in emails | Account identifier, sign-in email, profile, posts and clips, comments, kudos, friendships, encrypted messages and their delivery details, push tokens, reports, analytics under a random id, subscription record, Ghost Feed reports |
 | Apple | App Store, payments, Sign in with Apple, push delivery, Screen Time, speech recognition, Vision, Core Motion, photo picker, music search and previews | As described in Apple's privacy policy, including your song searches |
 | Google | Sign in with Google (optional) | Your Google account identifier and email, if you choose it |
-| Meta (Facebook SDK) | Ad measurement and attribution | Install, open and purchase events; advertising identifier only if you allow tracking |
+| Meta (Facebook SDK) | Ad measurement and attribution; Meta also uses the screen layout samples to improve its ad systems | Install, open and purchase events with the screen title and the link that opened Oath; sampled screen layouts; advertising identifier only if you allow tracking |
 | Superwall | Paywall display and measurement | Account identifier, first name if given, paywall events |
 | OpenAI | Reading book covers, brain dump | The single photo or text you submit, processed and not stored |
 | Google Books and Open Library | Book cover and page count lookup | Book title and author |
